@@ -1,0 +1,1 @@
+Kod sorunsuz çalışıyor.Tek sıkıntısı kişi sayısı statik,isim ve kartlar dinamik.Üzerine birşey eklenip daha güzel yapılabilir.Boş bulduğum vakit daha iyi yapmaya çalışacağım.(Not:Bilgiler.txt dosyasında isim deiştirerek ve ekstra kart ekleyerek de çalışabilir.)
